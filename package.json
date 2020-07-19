@@ -1,4 +1,14 @@
 {
 	"name":"@jumzeey/addit",
-	"version":"1.0.1"
+	"version":"1.0.1",
+	"description":"adds two numbers and return the result",
+	"license":"MIT",
+	"repository":"jumzeey/addit",
+	"main":"index.js",
+	"keywords":[
+		"add",
+		"npm",
+		"package",
+		"jumzeey"
+	]
 }
